@@ -4,7 +4,7 @@
   <img align="right" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 </p>
 
-I'm **Ahmed Naser**, a Computer Science student at **Zagazig University** (Faculty of Computers and Information). I am passionate about software development, heavily focused on backend engineering, and continuously sharpening my problem-solving skills.
+I'm **Ahmed Nasser**, a Computer Science student at **Zagazig University** (Faculty of Computers and Information). I am passionate about software development, heavily focused on backend engineering, and continuously sharpening my problem-solving skills.
 
 - 🎓 **Education:** First-year Computer Science Student at Zagazig University.
 - 🎯 **Current Focus:** Deep diving into Backend Development with **.NET**.
